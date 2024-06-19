@@ -1,6 +1,6 @@
 👋 ¡Hola! Soy Hugolifes 👋
 
-<a href="https://app.daily.dev/hugolifes"><img src="https://api.daily.dev/devcards/v2/6GyjbWgEarQSTRsAQoN4P.png?type=wide&r=165" width="652" alt="Hector's Dev Card"/></a>
+<a href="https://app.daily.dev/hugolifes"><img src="https://api.daily.dev/devcards/v2/6GyjbWgEarQSTRsAQoN4P.png?type=wide&r=165" width="552" alt="Hector's Dev Card"/></a>
 
 Soy un ingeniero de software apasionado por crear aplicaciones móviles y web que sean intuitivas y eficientes. Me especializo en React y Flutter, y me encanta trabajar en proyectos que me desafían a aprender y crecer.
 
